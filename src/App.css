@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  /* background-color: rgb(49, 48, 48); */
+}
+
+.form_details {
+  max-width: max-content;
+  max-height: max-content;
+  margin: auto;
+  padding: 50px;
+  background-color: #fdfdfd;
+  border-radius: 8px;
+  box-shadow: 3px 2px 5px grey;
+}
+
+h4 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.form {
+  /* background-color: rgb(66, 66, 66); */
+}
+
+input {
+  padding: 5px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 5px;
+  width: 100%;
+  background-color: rgb(68, 68, 68);
+  color: #ffff;
+}
+
+.article {
+  border: 1px solid grey;
+  padding: 10px;
+  margin: 10px 100px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+h3 {
+  margin: 20px;
+  text-align: center;
+}
